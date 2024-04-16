@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\mvcProyectoWeb1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36F77F21-0878-4AB0-B706-5C6BED3A2BB1}|mvcProyectoWeb1\\mvcProyectoWeb1.csproj|c:\\users\\hp\\source\\repos\\mvcproyectoweb1\\mvcproyectoweb1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{36F77F21-0878-4AB0-B706-5C6BED3A2BB1}|mvcProyectoWeb1\\mvcProyectoWeb1.csproj|solutionrelative:mvcproyectoweb1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DDE2FB2-E2B4-46F4-A0B2-D0B6DBFD4E05}|mvcpProyectoWeb.AccesoDatos\\mvcpProyectoWeb.AccesoDatos.csproj|c:\\users\\hp\\source\\repos\\mvcproyectoweb1\\mvcpproyectoweb.accesodatos\\data\\repository\\almacenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DDE2FB2-E2B4-46F4-A0B2-D0B6DBFD4E05}|mvcpProyectoWeb.AccesoDatos\\mvcpProyectoWeb.AccesoDatos.csproj|solutionrelative:mvcpproyectoweb.accesodatos\\data\\repository\\almacenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DDE2FB2-E2B4-46F4-A0B2-D0B6DBFD4E05}|mvcpProyectoWeb.AccesoDatos\\mvcpProyectoWeb.AccesoDatos.csproj|c:\\users\\hp\\source\\repos\\mvcproyectoweb1\\mvcpproyectoweb.accesodatos\\data\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DDE2FB2-E2B4-46F4-A0B2-D0B6DBFD4E05}|mvcpProyectoWeb.AccesoDatos\\mvcpProyectoWeb.AccesoDatos.csproj|solutionrelative:mvcpproyectoweb.accesodatos\\data\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DDE2FB2-E2B4-46F4-A0B2-D0B6DBFD4E05}|mvcpProyectoWeb.AccesoDatos\\mvcpProyectoWeb.AccesoDatos.csproj|c:\\users\\hp\\source\\repos\\mvcproyectoweb1\\mvcpproyectoweb.accesodatos\\data\\repository\\irepository\\ialmacenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DDE2FB2-E2B4-46F4-A0B2-D0B6DBFD4E05}|mvcpProyectoWeb.AccesoDatos\\mvcpProyectoWeb.AccesoDatos.csproj|solutionrelative:mvcpproyectoweb.accesodatos\\data\\repository\\irepository\\ialmacenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36F77F21-0878-4AB0-B706-5C6BED3A2BB1}|mvcProyectoWeb1\\mvcProyectoWeb1.csproj|c:\\users\\hp\\source\\repos\\mvcproyectoweb1\\mvcproyectoweb1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36F77F21-0878-4AB0-B706-5C6BED3A2BB1}|mvcProyectoWeb1\\mvcProyectoWeb1.csproj|solutionrelative:mvcproyectoweb1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DDE2FB2-E2B4-46F4-A0B2-D0B6DBFD4E05}|mvcpProyectoWeb.AccesoDatos\\mvcpProyectoWeb.AccesoDatos.csproj|c:\\users\\hp\\source\\repos\\mvcproyectoweb1\\mvcpproyectoweb.accesodatos\\data\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DDE2FB2-E2B4-46F4-A0B2-D0B6DBFD4E05}|mvcpProyectoWeb.AccesoDatos\\mvcpProyectoWeb.AccesoDatos.csproj|solutionrelative:mvcpproyectoweb.accesodatos\\data\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D00462C4-846C-4389-8CFA-556F36D441EB}|mvcProyectoWeb.Models\\mvcProyectoWeb.Models.csproj|c:\\users\\hp\\source\\repos\\mvcproyectoweb1\\mvcproyectoweb.models\\almacen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D00462C4-846C-4389-8CFA-556F36D441EB}|mvcProyectoWeb.Models\\mvcProyectoWeb.Models.csproj|solutionrelative:mvcproyectoweb.models\\almacen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\mvcProyectoWeb1\\mvcpProyectoWeb.AccesoDatos\\Data\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "mvcpProyectoWeb.AccesoDatos\\Data\\Repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\mvcProyectoWeb1\\mvcpProyectoWeb.AccesoDatos\\Data\\Repository\\Repository.cs",
+              "RelativeToolTip": "mvcpProyectoWeb.AccesoDatos\\Data\\Repository\\Repository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T00:56:53.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AlmacenRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\mvcProyectoWeb1\\mvcpProyectoWeb.AccesoDatos\\Data\\Repository\\AlmacenRepository.cs",
+              "RelativeDocumentMoniker": "mvcpProyectoWeb.AccesoDatos\\Data\\Repository\\AlmacenRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\mvcProyectoWeb1\\mvcpProyectoWeb.AccesoDatos\\Data\\Repository\\AlmacenRepository.cs",
+              "RelativeToolTip": "mvcpProyectoWeb.AccesoDatos\\Data\\Repository\\AlmacenRepository.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAhwB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T00:56:40.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\mvcProyectoWeb1\\mvcpProyectoWeb.AccesoDatos\\Data\\Repository\\IRepository\\IRepository.cs",
+              "RelativeDocumentMoniker": "mvcpProyectoWeb.AccesoDatos\\Data\\Repository\\IRepository\\IRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\mvcProyectoWeb1\\mvcpProyectoWeb.AccesoDatos\\Data\\Repository\\IRepository\\IRepository.cs",
+              "RelativeToolTip": "mvcpProyectoWeb.AccesoDatos\\Data\\Repository\\IRepository\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T00:56:23.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAlmacenRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\mvcProyectoWeb1\\mvcpProyectoWeb.AccesoDatos\\Data\\Repository\\IRepository\\IAlmacenRepository.cs",
+              "RelativeDocumentMoniker": "mvcpProyectoWeb.AccesoDatos\\Data\\Repository\\IRepository\\IAlmacenRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\mvcProyectoWeb1\\mvcpProyectoWeb.AccesoDatos\\Data\\Repository\\IRepository\\IAlmacenRepository.cs",
+              "RelativeToolTip": "mvcpProyectoWeb.AccesoDatos\\Data\\Repository\\IRepository\\IAlmacenRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T00:56:07.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Almacen.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\mvcProyectoWeb1\\mvcProyectoWeb.Models\\Almacen.cs",
+              "RelativeDocumentMoniker": "mvcProyectoWeb.Models\\Almacen.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\mvcProyectoWeb1\\mvcProyectoWeb.Models\\Almacen.cs",
+              "RelativeToolTip": "mvcProyectoWeb.Models\\Almacen.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAIBJwBoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T00:19:57.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\mvcProyectoWeb1\\mvcProyectoWeb1\\appsettings.json",
+              "RelativeDocumentMoniker": "mvcProyectoWeb1\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\mvcProyectoWeb1\\mvcProyectoWeb1\\appsettings.json",
+              "RelativeToolTip": "mvcProyectoWeb1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-12T00:16:45.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\mvcProyectoWeb1\\mvcProyectoWeb1\\Program.cs",
+              "RelativeDocumentMoniker": "mvcProyectoWeb1\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\mvcProyectoWeb1\\mvcProyectoWeb1\\Program.cs",
+              "RelativeToolTip": "mvcProyectoWeb1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T00:32:10.445Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

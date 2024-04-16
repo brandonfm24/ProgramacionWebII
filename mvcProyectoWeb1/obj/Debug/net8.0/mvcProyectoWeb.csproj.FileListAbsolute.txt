@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\mvcProyectoWeb1\mvcProyectoWeb1\obj\Debug\net8.0\mvcProyectoWeb.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\mvcProyectoWeb1\mvcProyectoWeb1\obj\Debug\net8.0\mvcProyectoWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\mvcProyectoWeb1\mvcProyectoWeb1\obj\Debug\net8.0\mvcProyectoWeb.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\mvcProyectoWeb1\mvcProyectoWeb1\obj\Debug\net8.0\mvcProyectoWeb.AssemblyInfo.cs
+C:\Users\HP\source\repos\mvcProyectoWeb1\mvcProyectoWeb1\obj\Debug\net8.0\mvcProyectoWeb.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\mvcProyectoWeb1\mvcProyectoWeb1\obj\Debug\net8.0\mvcProyectoWeb.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP\source\repos\mvcProyectoWeb1\mvcProyectoWeb1\obj\Debug\net8.0\mvcProyectoWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\source\repos\mvcProyectoWeb1\mvcProyectoWeb1\obj\Debug\net8.0\mvcProyectoWeb.RazorAssemblyInfo.cache
+C:\Users\HP\source\repos\mvcProyectoWeb1\mvcProyectoWeb1\obj\Debug\net8.0\mvcProyectoWeb.RazorAssemblyInfo.cs
+C:\Users\HP\source\repos\mvcProyectoWeb1\mvcProyectoWeb1\obj\Debug\net8.0\mvcProyectoWeb.sourcelink.json
